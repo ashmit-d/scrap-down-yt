@@ -8,7 +8,7 @@ A Flutter-based mobile app that combines **web scraping for offline news** with 
 
 ### 📰 Offline News Scraper
 - Scrapes latest articles from websites (text + images)
-- Saves pages offline for later reading
+- Saves pages offline for later reading (upcoming)
 - Clean layout optimized for mobile
 
 ### 🎥 YouTube Video & Audio Downloader
