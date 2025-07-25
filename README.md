@@ -25,9 +25,9 @@ A Flutter-based mobile app that combines **web scraping for offline news** with 
 ---
 
  ### Upcoming Features / TODO
- Add search functionality for scraping news
- Offline News Pages
- Show download progress indicator for videos
+- Add search functionality for scraping news
+- Offline News Pages
+- Show download progress indicator for videos
 
 ## 📸 Screenshots (Add your screenshots here)
 
