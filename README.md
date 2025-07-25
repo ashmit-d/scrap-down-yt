@@ -36,9 +36,10 @@ A Flutter-based mobile app that combines **web scraping for offline news** with 
 you will find the apk file inside 
 "news_scrapper\build\app\outputs\flutter-apk\app-debug.apk"
 
-## 📥 Download APK
+## 📦 Download APK
 
-[Download Latest APK](https://github.com/your-username/your-repo/releases/latest/download/app-release.apk)
+You can download the latest version of the app from [app-debug.apk](https://github.com/ashmit-d/scrap-down-yt/blob/main/app-debug.apk?raw=true).
+
 
 
 ### Prerequisites
