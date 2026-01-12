@@ -40,6 +40,7 @@ A Flutter-based mobile app that combines **web scraping for offline news** with 
 ## 🛠️ Getting Started
 you will find the apk file inside 
 "news_scrapper\build\app\outputs\flutter-apk\app-debug.apk"
+run python backend and then open the app.
 
 ## 📦 Download APK
 
